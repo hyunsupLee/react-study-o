@@ -1,4 +1,6 @@
-<img width="100%" alt="image" src="https://www.figma.com/deck/wcNAN0dl7TiPoTO4TzYsaJ/StudyO-PPT?node-id=1-140&t=bKo5OzDgHvVPKEVP-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/a9ea4511-2574-4ccd-a30b-593815f8be62">
+       <a href="https://www.figma.com/deck/wcNAN0dl7TiPoTO4TzYsaJ/StudyO-PPT?node-id=1-140&t=bKo5OzDgHvVPKEVP-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" />
+</img>
 
 
 ## 🚀 프로젝트 개요
